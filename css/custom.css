@@ -109,6 +109,10 @@ h2{
 	top: 100px;
 }
 
+.jumbo .scroll-down{
+	top:75px;
+}
+
 .about .scroll-down{
 	top: 35px;
 }
